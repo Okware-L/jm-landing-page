@@ -11,10 +11,10 @@ const CardDeal = () => (
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
         We are a crypto protocol using uniswap V2 technology 
-        to create markets on ethereum bases platforms and we will 
+        to create markets on ethereum based platforms and we will 
         roll over to all other layer 2's like Arbitrum & Optimism in 
         the near future. 
-        See The Jonmaurice Documentation and roadmap.<br/>
+        See The Jonmaurice roadmap in the documentation.<br/>
         <a className="mt-[20px] text-yellow-500 cursor-pointer animate-pulse" href=""> Documentation</a>
 
       </p>
