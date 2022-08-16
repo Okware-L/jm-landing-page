@@ -30,7 +30,7 @@ const Business = () =>  (
         while you reap all the great rewards !
       </p>
 
-      <Button styles={`mt-10`} />
+      <a href="https://www.jonmaurice.org/"><Button styles={`mt-10`} /></a>
     </div>
 
     <div className={`${layout.sectionImg} flex-col`}>
