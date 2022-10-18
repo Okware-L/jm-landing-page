@@ -6,7 +6,7 @@ const CTA = () => (
     <div className="flex-1 flex flex-col">
       <h2 className={styles.heading2}>Try Jon Maurice now!</h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Everything you need to trade, stake, and delve deep into the crypto world . 
+        Everything you need to trade, stake, and dive deep into the crypto world . 
       </p>
     </div>
 
